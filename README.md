@@ -29,11 +29,11 @@ Players have to be careful when deciding on an action. Going down the wrong path
 [freesound.org](https://freesound.org/)
 
 ### Music
-[Exotics](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100233&Search=Search) Kevin MacLeod ([incompetech.com](https://incompetech.com/))
+[Exotics](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100233&Search=Search) Kevin MacLeod ([incompetech.com](https://incompetech.com/))  
 Licensed under Creative Commons: By Attribution 3.0 License
 <http://creativecommons.org/licenses/by/3.0/>
 
-[Halls of the Undead](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100355&Search=Search) Kevin MacLeod ([incompetech.com](https://incompetech.com/))
+[Halls of the Undead](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100355&Search=Search) Kevin MacLeod ([incompetech.com](https://incompetech.com/))  
 Licensed under Creative Commons: By Attribution 3.0 License
 <http://creativecommons.org/licenses/by/3.0/>
 
