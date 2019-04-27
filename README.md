@@ -19,6 +19,9 @@ Players have to be careful when deciding on an action. Going down the wrong path
 ### Made In
 [Twine](https://twinery.org/)
 
+### Inventory Macros
+[F2Andy](https://strugglingwithtwine.blogspot.com/2014/03/handling-inventory.html)
+
 ### Images Found With
 [Creative Commons Search](https://search.creativecommons.org/)
 
