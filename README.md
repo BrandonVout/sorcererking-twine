@@ -43,7 +43,6 @@ Licensed under Creative Commons: By Attribution 3.0 License
 ## Repositories
 - [Github](https://github.com/BrandonVout/sorcererking)
 - [Gitlab](https://gitlab.com/BrandonVout/sorcererking)
-- [BitBucket](https://bitbucket.org/BrandonVout/sorcererking/src/master/)
 
 ## License
 Published under the **[GNU General Public License v3.0](./LICENSE)**
