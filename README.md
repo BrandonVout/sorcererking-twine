@@ -41,8 +41,8 @@ Licensed under Creative Commons: By Attribution 3.0 License
 <http://creativecommons.org/licenses/by/3.0/>
 
 ## Repositories
-- [Github](https://github.com/bvout/sorcererking)
-- [Gitlab](https://gitlab.com/bvout/sorcererking)
+- [Github](https://github.com/bvout/sorcererking-twine)
+- [Gitlab](https://gitlab.com/bvout/sorcererking-twine)
 
 ## License
 Published under the **[GNU General Public License v3.0](./LICENSE)**
